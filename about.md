@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+title: Bio
+permalink: /bio/
 ---
-
-### Bio
 
 Andrew Green is a Lecturer of Information Security and Assurance in the Information Systems Department, located in the Michael J. Coles College of Business at Kennesaw State University, Kennesaw Georgia.  Andy currently serves as the program coordinator for the Information Security and Assurance undergraduate degree program, as well as the faculty advisor for the award-winning student-led KSU Offensive Security Research Club.
 
