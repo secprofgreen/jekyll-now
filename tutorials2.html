@@ -3,14 +3,15 @@ layout: page
 permalink: /tutorials2/
 title: Tutorials2
 ---
-<h2>tut2 page</h2>
 <div class="posts">
   {% for category in site.categories %}
+  {% if {{ category [0]}} == "tutorial" %}
     <h2>{{ category[0] }}</h2>
     <ul>
       {% for post in category[1] %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
+    {% endif %}
   {% endfor %}
 </div>
