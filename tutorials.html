@@ -4,9 +4,9 @@ permalink: /tutorials/
 title: Tutorials
 ---
 <div class="posts">
-{% for category in site.categories %}
-  {% capture category_name %}{{ category | first }}{% endcapture %}
-  {% if category_name == "tutorial" %}
+{% for category in site.categories %} #iterate through all categories
+  {% capture category_name %}{{ category | first }}{% endcapture %} #stuff category into a variable
+  {% if category_name == "tutorial" %} #
     {% for post in site.categories[category_name] %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
