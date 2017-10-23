@@ -1,0 +1,13 @@
+---
+layout: page
+permalink: /tutorials/
+title: Tutorials
+---
+
+{% for category in site.categories %}
+
+<div class="archive-group">
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <div id="#{{ category_name | slugize }}"></div>
+
+{% endfor %}
