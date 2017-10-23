@@ -5,7 +5,7 @@ title: Tutorials
 ---
 
 {% for category in site.categories %}
-  {% if category == "tutorial" %}
+  {% if category.categories == "tutorial" %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
