@@ -3,9 +3,11 @@ layout: page
 permalink: /tutorials/
 title: Tutorials
 ---
-
-{% for post in site.categories[tutorial] %}
-<article class="archive-item">
-  <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-</article>
+{% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  {% for post in site.categories[tutorial] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+  {% endfor %}
 {% endfor %}
