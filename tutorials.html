@@ -4,10 +4,8 @@ permalink: /tutorials/
 title: Tutorials
 ---
 
-{% for category in site.categories %}
-
-<div class="archive-group">
-  {% capture category_name %}{{ category | first }}{% endcapture %}
-  <div id="#{{ category_name | slugize }}"></div>
-
+{% for post in site.categories[tutorials] %}
+<article class="archive-item">
+  <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+</article>
 {% endfor %}
