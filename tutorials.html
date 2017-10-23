@@ -10,15 +10,10 @@ title: Tutorials
   <h5>and now, category_name value is {{ category_name }}</h5>
   {% if category_name == "tutorial" %}
     <b>and now, we're inside the if loop</b>
+    {% for post in site.categories[category_name] %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
+    {% endfor %}
   {% endif %}
-{% endfor %}
-<hr />
-
-<p>and now, for something completely different...</p>
-
-{% for post in site.categories[tutorial] %}
-<h2>inside the for loop</h2>
 {% endfor %}
