@@ -5,7 +5,7 @@ title: Tutorials2
 ---
 <div class="posts">
   {% for category in site.categories %}
-  {% if {{ category [0]}} == "tutorial" %}
+    {% if category [0] == "tutorial" %}
     <h2>{{ category[0] }}</h2>
     <ul>
       {% for post in category[1] %}
