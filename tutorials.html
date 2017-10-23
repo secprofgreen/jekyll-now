@@ -5,9 +5,10 @@ title: Tutorials
 ---
 
 {% for category in site.categories %}
-  <h4>got inside the "for" loop</h4>
   <h3> so, the category.categories value is {{ category.categories }} </h3>
-  <h2> and the site.categories value is {{ site.categories }}
+  <h4> and the site.categories value is {{ site.categories }} </h4>
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <h5>and now, category_name value is {{ category_name }}</h5>
   {% if category.categories == "tutorial" %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
