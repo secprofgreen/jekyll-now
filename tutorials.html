@@ -6,7 +6,8 @@ title: Tutorials
 
 {% for category in site.categories %}
   <h4>got inside the "for" loop</h4>
-  <h3> current category is {{ category.categories }} </h3>
+  <h3> so, the category.categories value is {{ category.categories }} </h3>
+  <h2> and the site.categories value is {{ site.categories }}
   {% if category.categories == "tutorial" %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
