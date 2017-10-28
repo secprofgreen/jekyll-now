@@ -303,7 +303,7 @@ footer {
 .tag-highlighter-rouge {
   white-space: nowrap;
   color: rgb(169,64,100);
-  background-color: black;
+  background-color: $lightGray;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
