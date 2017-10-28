@@ -3,7 +3,7 @@ layout: post
 title: 2011 SECCDC competition
 published: true
 categories: [blog]
-tags: [education,seccdc,ccdc,infosec,academics,competition,training]
+tags: [education,seccdc,ccdc,infosec,academia,competitions,training]
 date: 2011-03-23
 ---
 
