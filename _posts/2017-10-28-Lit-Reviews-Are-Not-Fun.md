@@ -9,7 +9,7 @@ date: 2017-10-28
 
 Let me talk to you a little bit about literature reviews.
 
-As a "budding scholar", I've been told time and time again about the importance of understanding what literature exists on a given problem domain.  And, intellectually I get that.
+As a "budding scholar," I've been told time and time again about the importance of understanding what literature exists on a given problem domain.  And, intellectually I get that.
 
 But...
 
