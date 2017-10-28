@@ -1,3 +1,4 @@
+---
 layout: post
 title: 10 Things Every College Professor Hates
 published: true
