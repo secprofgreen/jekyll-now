@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A great way to start the semester...
+title: A great way to start the semester
 published: true
 categories: [blog]
 date: 2014-08-28
