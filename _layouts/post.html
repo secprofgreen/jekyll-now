@@ -11,9 +11,7 @@ layout: default
 
   <span class="post-tags">
     [&nbsp;
-    {% for tag in page.tags %}
-      tag2 is {{tag[1]}} <br />
-    {% endfor %}
+    {{ page.tags | join: ', ' }}
     ]
   </span>
 
