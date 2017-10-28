@@ -3,6 +3,7 @@ layout: post
 title: How helicopter parents are ruining college students
 published: true
 categories: [blog]
+tags: [academia,pet peeves]
 date: 2014-09-04
 ---
 

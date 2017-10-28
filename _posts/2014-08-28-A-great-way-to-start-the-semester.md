@@ -3,6 +3,7 @@ layout: post
 title: A great way to start the semester
 published: true
 categories: [blog]
+tags: [academia]
 date: 2014-08-28
 ---
 

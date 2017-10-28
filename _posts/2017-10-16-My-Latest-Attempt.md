@@ -2,6 +2,7 @@
 layout: post
 title: It's tough to write, when you're writing all the time!
 categories: blog
+tags: [personal]
 ---
 
 Over the years, I've attempted (unsuccessfully) to commit to some type of regular blogging effort.

@@ -3,6 +3,7 @@ layout: post
 title: An infrequent blogger
 published: true
 categories: [blog]
+tags: [personal]
 date: 2011-03-13
 ---
 
