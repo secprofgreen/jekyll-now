@@ -3,7 +3,7 @@ layout: post
 title: 10 Things Every College Professor Hates
 published: true
 categories: [blog]
-tags: [academia,personal,pet peeves]
+tags: [academia,personal,pet-peeves]
 date: 2014-08-29
 ---
 
