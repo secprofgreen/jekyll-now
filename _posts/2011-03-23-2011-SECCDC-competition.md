@@ -7,7 +7,12 @@ tags: [education seccdc ccdc infosec academics competition training]
 date: 2011-03-23
 ---
 
-{{page.tags | capitalize | join: ', '}}
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
 
 We recently hosted the 2011 South East Collegiate Cyber Defense competition at Kennesaw State University.  First place was awarded to the University of Louisville, and they also swept all the individual category awards as well.  All in all, a pretty dominating performance by that team.  This year, we had a total of 10 teams competing, our largest turnout ever.
 
