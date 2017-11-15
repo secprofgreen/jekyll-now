@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \"Learning Outcomes for Cyber Defense Competitions\" journal publication
+title: &#34;Learning Outcomes for Cyber Defense Competitions&#34; journal publication
 published: true
 categories: [blog]
 tags: [journal-publications,education,infosec,academia,competitions,training]
