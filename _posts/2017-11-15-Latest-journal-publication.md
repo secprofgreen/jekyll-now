@@ -13,4 +13,4 @@ We interviewed judges and mentors for a well-established cyber defense competiti
 
 From the data collected during these interviews, we were able to create a set of recommended learning outcomes for cyber defense competitions.  Prior research focused on the technical learning outcomes, so we chose to analyze human and social topics to build upon the body of literature.
 
-The journal article can be downloaded for free, and can be found at [http://jise.org/Volume28/n1/JISEv28n1p21.html](http://jise.org/Volume28/n1/JISEv28n1p21.html){:target="_blank"}
+The journal article can be downloaded for free, and can be found at [http://jise.org/Volume28/n1/JISEv28n1p21.html](https://goo.gl/8d5Ndt){:target="_blank"}
