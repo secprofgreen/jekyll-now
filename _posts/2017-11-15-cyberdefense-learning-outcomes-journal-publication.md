@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest journal publication released
+title: Cyber Defense Learning Outcomes journal publication
 published: true
 categories: [blog]
 tags: [journal-publications,education,infosec,academia,competitions,training]
