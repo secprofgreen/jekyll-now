@@ -307,11 +307,6 @@ footer {
   background-color: #828a8f;
 }
 
-.hanging-indent {
-  text-indent: 28px;
-  padding-left: 28px;
-}
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
