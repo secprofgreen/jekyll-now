@@ -27,4 +27,4 @@ I suggest the following steps for you to follow:
 
 4 - immediately install any software patch released for any piece of software you have on your system
 
-Tip of the hat to Daniel Miessler ([@DanielMiessler](https://twitter.com/DanielMiessler/){:target="_blank"} on Twitter) for his excellent writeup (found [here])(https://danielmiessler.com/blog/simple-explanation-difference-meltdown-spectre/){:target="_blank"}, which helped make sense of a lot of this for me!
+Tip of the hat to Daniel Miessler ([@DanielMiessler](https://twitter.com/DanielMiessler/){:target="_blank"} on Twitter) for his excellent writeup (found [here])(https://danielmiessler.com/blog/simple-explanation-difference-meltdown-spectre/){:target="_blank"} which helped make sense of a lot of this for me!
