@@ -18,7 +18,10 @@ These vulnerabilities cannot be patched, as they reside inside the CPU itself - 
 Operating system and software vendors will be releasing software patches to try and lessen the threat posed by these vulnerabilities. However, the threat cannot be removed completely without a basic, fundamental change to CPU architecture by chip manufacturers.  These patches will most likely cause a performance slowdown for impacted systems, although there is some disagreement on the degree to which impacted systems will be slowed down by these patches.
 
 I suggest the following steps for you to follow:
+
 1 - immediately install any patches released by your operating system vendor (Windows, Apple MacOs and iphone IOS), Android, etc.)
 2 - immediately install any patches released for any web browser you use (Chrome, Firefox, Safari, Microsoft's Internet Explorer or Edge)
 3 - immediately upgrade your web browser if a newer version is released
 4 - immediately install any software patch released for any piece of software you have on your system
+
+Tip of the hat to Daniel Miessler ([@DanielMiessler](https://twitter.com/DanielMiessler/){:target="_blank"} on Twitter) for his excellent writeup found [here](https://danielmiessler.com/blog/simple-explanation-difference-meltdown-spectre/){:target="_blank"} which helped make sense of a lot of this for me!
