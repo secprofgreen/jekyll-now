@@ -20,8 +20,11 @@ Operating system and software vendors will be releasing software patches to try 
 I suggest the following steps for you to follow:
 
 1 - immediately install any patches released by your operating system vendor (Windows, Apple MacOs and iphone IOS), Android, etc.)
+
 2 - immediately install any patches released for any web browser you use (Chrome, Firefox, Safari, Microsoft's Internet Explorer or Edge)
+
 3 - immediately upgrade your web browser if a newer version is released
+
 4 - immediately install any software patch released for any piece of software you have on your system
 
 Tip of the hat to Daniel Miessler ([@DanielMiessler](https://twitter.com/DanielMiessler/){:target="_blank"} on Twitter) for his excellent writeup found [here](https://danielmiessler.com/blog/simple-explanation-difference-meltdown-spectre/){:target="_blank"} which helped make sense of a lot of this for me!
