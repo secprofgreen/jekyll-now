@@ -21,10 +21,17 @@ I suggest the following steps for you to follow:
 
 1 - immediately install any patches released by your operating system vendor (Windows, Apple MacOs and iphone IOS), Android, etc.)
 
-2 - immediately install any patches released for any web browser you use (Chrome, Firefox, Safari, Microsoft's Internet Explorer or Edge)
+2 - immediately install any patches released for any web browser you use (Chrome, Firefox, Safari, Microsoft's Internet Explorer or Edge), or make recommended changes to your web browser's configuration.  For example, Google Chrome has released a recommendation to enable "Strict Site Isolation".  Other web browsers may offer similar recommendations as a temporary fix, until they can push an updated version of the web browser.  This leads us to...    
 
-3 - immediately upgrade your web browser if a newer version is released
+3 - immediately upgrade your web browser when a newer version is released
 
 4 - immediately install any software patch released for any piece of software you have on your system
 
+5 - install and use an ad blocker on your web browser.  You have lots of choices here, such as AdBlock, AdBlock Plus, uBlock Origin.  
+
 Tip of the hat to Daniel Miessler ([@DanielMiessler](https://twitter.com/DanielMiessler/){:target="_blank"} on Twitter) for his excellent writeup (found [here](https://danielmiessler.com/blog/simple-explanation-difference-meltdown-spectre/){:target="_blank"}) which helped make sense of a lot of this for me!
+
+<div class="postrevised">
+UPDATES
+<p>1.5.2018 - Added recommendation to use an ad blocker with your web browser.<br />Modified recommendation #2 to include making changes to existing web browser configuration</p>
+</div>
