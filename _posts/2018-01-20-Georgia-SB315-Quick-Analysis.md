@@ -15,7 +15,7 @@ While I applaud the attempt, I have some concerns about the overly vague languag
 
 The bill defines the phrase "unauthorized computer access" as "...accessing a computer or computer network with the knowledge that such access is without authority..."  However, what do the words "access" and "authorization" mean, exactly?  The bill is completely silent on these key provisions, leaving it wide open to interpretation.
 
-As we have seen with prior attempts at legislating this type of behavior, a clear definition of authorized access is critical, so as to prevent misuse and misapplication of the law.  As we have seen with the CFAA at the federal level, there are too many federal prosecutors who, for whatever reason, take an overly broad approach when wielding the CFAA hammer, sometimes ending with tragic results [https://www.eff.org/issues/cfaa](https://www.eff.org/issues/cfaa){:target="_blank"}
+As we have seen with prior attempts at legislating this type of behavior, a clear definition of authorized access is critical, so as to prevent misuse and misapplication of the law.  As we have seen with the CFAA at the federal level, there are too many federal prosecutors who, for whatever reason, take an overly broad approach when wielding the CFAA hammer, sometimes ending with tragic results(see  [https://www.eff.org/issues/cfaa](https://www.eff.org/issues/cfaa){:target="_blank"})
 
 For this bill to truly effective, and to ensure that it is not misused by overzealous and/or confused prosecutors and civil attorneys, Georgia legislators must take appropriate action to clarify their language, and ensure that there is no confusion as to what they mean by "unauthorized access".
 
