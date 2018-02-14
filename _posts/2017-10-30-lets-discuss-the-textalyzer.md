@@ -1,22 +1,5 @@
 ---
-layout: post
-title: Thoughts about the "Textalyzer"
-published: true
-categories: [blog]
-tags: [privacy,biometrics,law-enforcement,security,law]
-date: 2017-10-30
+layout: redirected
+sitemap: false
+redirect_to:  https://blog.andy-green.org/2017/10/30/thoughts-about-the-textalyzer/
 ---
-
-Over the weekend, I saw coverage in the local media ([http://www.wsbtv.com/news/local/textalyzer-for-texting-drivers-new-tech-aims-to-cut-down-on-distracted-drivers/630926836](http://www.wsbtv.com/news/local/textalyzer-for-texting-drivers-new-tech-aims-to-cut-down-on-distracted-drivers/630926836){:target="_blank"}) about the "Textalyzer," a device that can be used to determine whether someone operating a motor vehicle was engaged in "distracted driving" by using their cell phone at the time of an accident.  Advocates are pushing for state laws to be modified so that law enforcement can use the "Textalyzer" at the scene of the accident, drawing parallels between it and field sobriety tests like breathalyzers.  
-
-While the intent behind this movement may be noble, the downsides of using the "Textalyzer" in the field far outweigh the upsides.
-
-Let me preface the next paragraph by saying that I am not an attorney.  So, please do not confuse my layman's analysis with informed legal opinion.  I'm simply a guy who likes to think about due process, privacy, and personal freedoms a lot.  Please take my 4th amendment comments and armchair analysis in that vein.  
-
-Supporters claim that use of this device will allow law enforcement to collect data at the scene, which may aide in their investigation.  However, there are serious 4th amendment concerns to think about here.  It's completely understandable to employ the concept of "implied consent" with regards to alcohol, since it is processed by the body and ultimately removed as waste - there is a very real time factor involved in suspected DUI situations.  However, do we have the same concerns with cell phone data?  I'm not so sure we do.  The 4th amendment protects citizens from unreasonable search and seizure by the government.  Cell phones can be taken into evidence by law enforcement, and held until they are able to secure a search warrant from a judge.  The data is not going anywhere, so I don't see the need for a field search of an individual's phone.  Additionally, data that can support "distracted driving" claims can also be collected from cellular service providers, also after securing a search warrant.
-
-From a technology standpoint, Cellebrite is a well-known forensics software provider, and is a popular tool used in cellular forensics investigations.  Cellebrite claims that their tool only pulls activity data, not actual content of those activities.  In other words, Cellebrite claims their tool does not read your actual text or Facebook Messenger messages, and the like.  These claims have not been vetted by any third parties that I am aware of, so we're left with a "trust us, it doesn't..." situation.  I'm not the least bit comfortable with entrusting Cellebrite's codewriters to protect my 4th amendment rights, especially given the potential stakes.  Next, there is no public discussion or details that I am aware of, which outline how data obtained is actually held.  I can easily envision a scenario where law enforcement reads the data from several devices at the scene, using a field device.  Is each dataset kept separated so that there's no contamination?  Is that data removed from the field device and where is it stored?  Is the chain of custody maintained throughout this process?  Is the field device scrubbed between investigations, so that there is no possibility of data from a previous investigation being included in any subsequent investigation?
-
-From a practical standpoint, how can anyone actally tell if the driver was the indivdual using the phone at the time of the accident?  I can easily envision scenarios where a passenger is actually operating the phone in question, not the driver.  I can also easily envision a scenario involving a text message or some other type of communication being received shortly before the accident, but the driver not responding or otherwise being distracted?  Finally, what about a device sending out "auto responses" while the vehicle is moving?  The possibility of that being incorrectly interpreted as the driver being distracted seems very real to me, and how does the driver disprove such a claim?
-
-New York state has already (unsuccessfully) attempted to pass legislation to allow "Textalyzer" use in that state, as well as Tennessee.  It is probably just a matter of time before this becomes a matter of interest for legislators in Georgia, where I live.  It will be interesting to watch this discussion and debate unfold.
