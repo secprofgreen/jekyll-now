@@ -2,10 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-# Enable site redirects as needed
-plugins:
-  - jekyll-redirect-from
-
 # Name of your site (displayed in the header)
 name: Andy Green
 
