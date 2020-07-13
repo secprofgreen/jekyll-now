@@ -11,4 +11,4 @@ When I re-started blogging, I thought it would be cool to host it here on Github
 
 However, after playing around with the features available on the Wordpress platform, I've decided to move everything there.
 
-So, if you're interested in keeping up with my writing, please visit my new site at [https://blog.andy-green.org/](https://blog.andy-green.org/)
+So, if you're interested in keeping up with my writing, please visit my new site at [https://securityprofessor.info/](https://securityprofessor.info/)
