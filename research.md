@@ -1,7 +1,7 @@
 ---
 layout: redirected
 sitemap: false
-title: Research
-permalink: /research/
+title: Bio
+permalink: /bio/
 redirect_to:  https://securityprofessor.info/research
 ---
